@@ -16,7 +16,7 @@ This project is a fully custom 2-layer PCB designed around the STM32L432 microco
   - USB interface for data/power
 - **RF Matching Network** for antenna output
 - **SMD-Only Design** for compact assembly
-- **2-Layer PCB** with ground plane and via stitching
+- **2-Layer PCB**
 
 ---
 
